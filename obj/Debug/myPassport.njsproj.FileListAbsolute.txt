@@ -1,0 +1,2 @@
+C:\Users\Manojkumar\Desktop\Project\passport-local-express4-master\obj\Debug\myPassport.njsprojResolveAssemblyReference.cache
+C:\Users\Manojkumar\Desktop\Project\passport-local-express4-master\bin\Microsoft.NodejsTools.WebRole.dll
