@@ -5,7 +5,7 @@ var router = express.Router();
 
 
 router.get('/', function (req, res) {
-    console.log("in");
+    console.log("in..........");
     
     req.on('end', function () {
         console.log('Received the information on start');
